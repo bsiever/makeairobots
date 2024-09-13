@@ -263,7 +263,7 @@ function createClasses(classes, modelLength = false) {
                 classes[i]
             }"><p class='label'></p><span class='meter-container'><span><p></p></span></span><span class='toggle-container'><span class="check" ><img class="check-img" id="check-${[
                 i,
-            ]}" src="assets/images/check_bold.svg" alt="checkmark"></span><label class="switch"><input type="checkbox" class="toggle-switch" ><span class="slider round"></span></label></span></div>`
+            ]}" src="./check_bold.svg" alt="checkmark"></span><label class="switch"><input type="checkbox" class="toggle-switch" ><span class="slider round"></span></label></span></div>`
         );
         arr[i] = 0;
     }
